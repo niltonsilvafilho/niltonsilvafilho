@@ -4,18 +4,6 @@
 <a href="https://www.linkedin.com/in/nilton-filho-402773177/"><img src="https://img.shields.io/badge/-Nilton%20Filho-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
-
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-
-
-
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
-
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![.C](https://img.shields.io/badge/-C-333333?style=flat&logo=.C)
-
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
 <div align="center">
